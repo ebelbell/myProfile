@@ -27,4 +27,4 @@ An accomplishment during your Year Up journey that you are most proud of and why
 
 ---
 
-![alt text](dreams.JPEG)
+![alt text](dreams.jpeg)
