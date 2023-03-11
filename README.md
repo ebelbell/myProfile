@@ -24,7 +24,8 @@ List 3 items about your Year Up Program Management journey that excites you
 - New friendships and connections in the workspace.
 
 An accomplishment during your Year Up journey that you are most proud of and why
+There are many things I could say that I'm proud of during the program. From adjusting to a morning schedule to learning to manage my time and balance between work and school.
 
 ---
 
-![alt text](dreams.jpeg)
+![alt text](dreams.PNG)
