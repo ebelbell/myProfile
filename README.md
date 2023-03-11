@@ -9,7 +9,7 @@ I have always sought out to be the best that I can be academically. As I grew up
 ![alt text](me.PNG)
 ---
 
-Here are some things that brought me joy:
+Here are some things that brought me joy 😊:
 - The beach and the arcade bring me comfort
 - Sharing genuine laughter with someone
 - When I put together a Valentine's theme event for my work and received high feedback.
@@ -27,5 +27,5 @@ An accomplishment during your Year Up journey that you are most proud of and why
 There are many things I could say that I'm proud of during the program. From adjusting to a morning schedule to learning to manage my time and balance between work and school.
 
 ---
-
+🌸 🌼 🌟 🌻 🍰 
 ![alt text](dreams.PNG)
