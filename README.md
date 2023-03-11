@@ -1,3 +1,6 @@
+# 🌼 Elyzha's little things 🌸  
+My repository is about the little things in life that make me happy. 
+
 ## Bio
 *2023 is my turn to grow.* My name is Elyzha and I am a Filipino-American from Seattle, WA. I have an interest in UX Design and creating products that are accessible to all users. 
 
