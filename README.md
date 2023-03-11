@@ -7,5 +7,5 @@ My repository is about the little things in life that make me happy.
 I have always sought out to be the best that I can be academically. As I grew up, I also faced different obstacles that hindered my mindset into reaching the goals that I wanted to achieve. This year, I'm ready to take calculated risks to take new responsibilities to see how far I can go professionally and as an individual.
 
 ![alt text](me.png)
-----------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
