@@ -1,4 +1,4 @@
-# Elyzha's little things 🌸 🌼 🌟 🌻 🍰 🍉 🦋 
+# 🌼 Elyzha's little things 🌸  
 My repository is about the little things in life that make me happy. 
 
 ## Bio
@@ -16,7 +16,7 @@ Here are some things that brought me joy 😊:
 
 ---
 
-##The 4th thing - joining Year Up!
+##The 4th thing - joining Year Up! 🦋
 
 List 3 items about your Year Up Program Management journey that excites you
 - I get to congratulate and celebrate my peers achievements along the way and see them be excited about their future.
