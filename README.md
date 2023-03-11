@@ -1,4 +1,4 @@
-# Elyzha's little things 
+# Elyzha's little things 🌸 🌼 🌟 🌻 🍰 🍉 🦋 
 My repository is about the little things in life that make me happy. 
 
 ## Bio
@@ -27,5 +27,5 @@ An accomplishment during your Year Up journey that you are most proud of and why
 There are many things I could say that I'm proud of during the program. From adjusting to a morning schedule to learning to manage my time and balance between work and school.
 
 ---
-🌸 🌼 🌟 🌻 🍰 
+ 
 ![alt text](dreams.PNG)
