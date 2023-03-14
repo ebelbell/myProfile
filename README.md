@@ -25,7 +25,7 @@ Here are some things that bring me joy 😊:
 - I get to congratulate and celebrate my peers achievements along the way and see them be excited about their future.
 - I am excited for the possibilities ahead and show myself what skills I am capable of.
 - New friendships and connections in the workspace.
-- I gets to build her professional network with connecting to professionals in the corporate space.
+- I get to build my professional network with connecting to professionals in the corporate space.
 
 **An accomplishment during my Year Up journey that I am most proud of:**
 There are many things I could say that I'm proud of during the program. From adjusting to a morning schedule to learning to manage my time and balance between work and school. That's not to say it's easy! Though, I am most proud of perservering. I am doing the work to invest in my future and I am learning new things along the way that I look forward to implementing in internship or any workplace.
