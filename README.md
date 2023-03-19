@@ -1,7 +1,7 @@
 # 🌼 Elyzha's little things 🌸  
 My repository is about the little things in life that make me happy and my journey in Year Up. 
 
-## Bio
+## Bio :Happy:
 *2023 is my turn to grow.* My name is Elyzha and I am a Filipino-American from Seattle, WA. I have an interest in UX Design and creating products that are accessible to all users. 
 
 I have always sought out to be the best that I can be academically. As I grew up, I also faced different obstacles that hindered my mindset into reaching the goals that I wanted to achieve. This year, I'm ready to take on new responsibilities to see how far I can go professionally and as an individual.
@@ -9,7 +9,7 @@ I have always sought out to be the best that I can be academically. As I grew up
 ![alt text](me.PNG)
 ---
 
-Here are some things that bring me joy 😊:
+## Here are some things that bring me joy 😊:
 - The beach and the arcade bring me comfort
 - Sharing genuine laughter with someone
 - When I put together a Valentine's theme event for my work and received high feedback
@@ -34,4 +34,4 @@ There are many things I could say that I'm proud of during the program. From adj
  
 ![alt text](dreams.jpeg)
 
-[Elyzha's LinkedIn](https://www.linkedin.com/in/elyzha-a-profile/)
+## [Elyzha's LinkedIn](https://www.linkedin.com/in/elyzha-a-profile/)
